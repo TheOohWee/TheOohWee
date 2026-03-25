@@ -4,7 +4,7 @@ I'm a freshman at the University of Notre Dame studying **Computer Science** and
 
 I originally came in as a **Physics** major, building on my background in high school physics olympiads. In December 2025, I switched to cs and math after developing a stronger interest in computing, problem-solving, and building projects<sup>1</sup>. 
 
-Alongside my coursework, I am currently reading *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron in my free time. 
+Alongside my coursework, I am currently reading *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron in my free time and doing different activities. 
 
 ## 🛠️ Interests
 - Machine Learning 
