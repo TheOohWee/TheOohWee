@@ -18,9 +18,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+outputs: |
+  dist/github-contribution-grid-snake.svg?color_snake=00F0FF&color_dots=161B22,0D2B3E,155E8A,1E90FF,00F0FF
+  dist/github-contribution-grid-snake-dark.svg?color_snake=00F0FF&color_dots=161B22,0D2B3E,155E8A,1E90FF,00F0FF&color_dark=000000
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
