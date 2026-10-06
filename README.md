@@ -1,4 +1,4 @@
-- love to talk about sports, tech, music, smth fun and life 🦧
+- love to talk about tech, music, smth fun and life 🦧
 - hate larpers
 - respect geeks
 <table>
