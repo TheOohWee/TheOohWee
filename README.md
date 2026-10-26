@@ -1,4 +1,4 @@
-- ## love to talk about tech, music, books, smth fun and life 🦧
+- ### love to talk about tech, music, books, smth fun and life 🦧
 - ### *p.s. hate larpers, but love geeks!*
 <table>
 <tr>
